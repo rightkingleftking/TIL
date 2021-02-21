@@ -4,4 +4,4 @@
 - 다양한 브라우저들은 각각 기본css를 가지고 있음.
 - 이를 통일하기 위해 css의 기본 스타일을 정의해 놓아야 함.
 - 프로젝트의 상황에 따라 reset파일을 따로 두는게 이상적.
-- 유명한 css reset 파일을 적용시켜도 무방 ([Eric Meyer's reset css](https://meyerweb.com/eric/tools/css/reset/)
+- 유명한 css reset 파일을 적용시켜도 무방 ([Eric Meyer's reset css](https://meyerweb.com/eric/tools/css/reset/))
