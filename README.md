@@ -1,4 +1,4 @@
-by KS
+by ks
 
 # CSS
 ## 크로스 브라우징
