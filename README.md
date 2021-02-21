@@ -1,6 +1,6 @@
 by KS
 
 # CSS
-- [CSS Reset](TIL/CSS/CSS_reset.md)
+- [CSS Reset](CSS/CSS_reset.md)
 # 웹 접근성
-- [IR기법](TIL/CSS/IR기법.md)
+- [IR기법](CSS/IR기법.md)
