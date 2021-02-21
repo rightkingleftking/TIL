@@ -1,4 +1,4 @@
-[웹 접근성](https://github.com/rightkingleftking/TIL/#웹-접근성)
+상위태그 : [웹 접근성](https://github.com/rightkingleftking/TIL/#웹-접근성)
 # Image Replacement
 - 다양한 상황에 대비해 이미지 정보를 전달하기 위한 기법
 - 사용처
