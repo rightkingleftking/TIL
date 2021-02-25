@@ -8,6 +8,7 @@ by ks
 - [2단 레이아웃 구분선](CSS/layout.md#2단-레이아웃-구분선)
 ## 속성
 - [float](CSS/float.md)
+- [display](CSS/display.md)
 ## 크로스 브라우징
 - [CSS Reset](CSS/CSS_reset.md)
 ## 웹 접근성
