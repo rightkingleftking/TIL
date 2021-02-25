@@ -11,5 +11,5 @@
   display: table-cell;
 }
 ~~~
-- 활용 예
+- 활용 예<br>
 ![display_table](https://user-images.githubusercontent.com/46833758/109168791-81cd2c80-77c2-11eb-9b19-679c21be0442.png)
