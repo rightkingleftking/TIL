@@ -10,6 +10,8 @@ former_element + target_element { style properties }
   margin-left: -1px;
 }
 ~~~
+- 1px씩 앞으로 당겨졌기 때문에 전체 너비값이 변경됨에 유의하여 수정
+
 ### z-index 제어
 - 선택된 메뉴를 표현시 위 활용에서 겹쳐진 경계선 때문에 다음 요소와의 경계선이 보이지 않는 현상 존재
 - position을 relative로 바꿔줌으로써 z-index를 가장 최근에 수정한 것으로 처리하여 가장 위로 보내주기
