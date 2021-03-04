@@ -1,5 +1,9 @@
-by ks
-
+# Computer Graphics
+## linear algebra
+- [vector](Computer%20Graphics/vector.md)
+- [linear combination](Computer%20Graphics/linear%20combination.md)
+- [linear transformation](Computer%20Graphics/linear%20transformation.md)
+---
 # CSS
 ## 선택자
 - [인접형제선택자](CSS/selector.md)
